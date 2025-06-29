@@ -1,1 +1,1 @@
-Objective: Practice branching, merging, and conflict resolution.
+This repository is for practicing branching, merging, and resolving conflicts.
